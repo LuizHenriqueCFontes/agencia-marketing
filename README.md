@@ -62,3 +62,8 @@ O `App.tsx` compõe as seções da página. Os componentes reutilizáveis e as s
 - Atualize o endereço `oi@lume.agency` no componente `ContactSection` para usar o e-mail real da agência.
 - Edite os nomes, métricas, projetos e depoimento de exemplo nos componentes `TrustStrip`, `ProjectsSection` e `TestimonialSection` antes de publicar.
 - As imagens dos projetos são carregadas do Unsplash e a tipografia utiliza o Google Fonts; ambos precisam de conexão com a internet
+
+--
+
+## Orientador
+Professor Hudson Neves
