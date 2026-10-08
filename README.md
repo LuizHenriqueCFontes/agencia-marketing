@@ -25,6 +25,12 @@ npm run dev
 
 O Vite exibirá no terminal o endereço local para abrir no navegador.
 
+--
+🚀 Deploy
+Acesse o projeto online:
+
+🔗 https://luizhenriquecfontes.github.io/agencia-marketing/
+
 ## Scripts disponíveis
 
 | Comando | Descrição |
